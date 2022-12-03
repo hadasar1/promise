@@ -1,0 +1,17 @@
+{
+    "id": {
+        "info": "This should contain only numbers  ",
+        "warning": "Make sure your input is correct",
+        "error": "Your input isn't the right length, it should have exactly 9 numbers"
+    },
+    "adress": {
+        "info": "This should contain only letters ",
+        "warning": "Make sure your input is correct",
+        "error": "Your input isn't the right length, it should have at least 5 letters"
+    },
+    "city": {
+        "info": "This  should contain only letters",
+        "warning": "Make sure your input is correct",
+        "error": "Your input isn't the right length, it should have at least 5 letters"
+    }
+}
